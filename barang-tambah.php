@@ -34,15 +34,9 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="barang.php">Barang</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Penjualan Barang</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Pelanggan</a>
-            </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="barang.php">Barang</a>
+                </li>
             </ul>
         </div>
     </nav>
